@@ -4,8 +4,7 @@
  *  
  *  Implement the Comparable interface and compare two customers based on name
  */
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
 public class Customer implements Comparable<Customer>
 {
 	private String id;  
