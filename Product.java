@@ -8,8 +8,7 @@
  * 
  * Some products
  */
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
 public class Product implements Comparable
 {
 	public static enum Category {GENERAL, CLOTHING, BOOKS, FURNITURE, COMPUTERS, SHOES};
