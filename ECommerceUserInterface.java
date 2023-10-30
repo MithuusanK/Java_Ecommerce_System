@@ -3,8 +3,8 @@ import java.util.Scanner;
 import java.util.StringTokenizer;
 
 // Simulation of a Simple E-Commerce System (like Amazon)
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
+
 
 public class ECommerceUserInterface
 {
