@@ -1,6 +1,5 @@
 
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
 public class Shoes extends Product 
 {
     private int black6 = 0;
