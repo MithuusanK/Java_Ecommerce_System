@@ -17,8 +17,7 @@ import java.io.IOException;
  * Models a simple ECommerce system. Keeps track of products for sale, registered customers, product orders and
  * orders that have been shipped to a customer
  */
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
 public class ECommerceSystem
 {
     private  Map<String, Product> products = new TreeMap<String, Product>();
