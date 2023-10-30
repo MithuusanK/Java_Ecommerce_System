@@ -6,8 +6,7 @@
  	 The format is specified as a specific "stock type" in get/set/reduce stockCount methods.
 
 */
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
 public class Book extends Product 
 {
   private String author;
