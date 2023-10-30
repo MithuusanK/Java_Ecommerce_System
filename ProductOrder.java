@@ -5,8 +5,8 @@
  * 
  * Also stores any product options chosen by this customer (e.g. paperback book, certain size of a product etc)
  */
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
+
 public class ProductOrder
 {
 	private String 		orderNumber;
