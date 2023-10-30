@@ -1,5 +1,4 @@
-//Mithuusan Kirupananthan
-//Student ID: 501102123
+
 
 public class CartItem extends Product
 {
