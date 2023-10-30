@@ -1,6 +1,5 @@
 import java.util.ArrayList;
-//Mithuusan Kirupananthan
-//501102123
+
 
 public class Cart 
 {
